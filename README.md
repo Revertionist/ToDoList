@@ -1,2 +1,2 @@
 # ToDoList
-[Live Link](https://revertionist.github.io/ToDoList/){: .btn}
+[Live Link](https://revertionist.github.io/ToDoList/)
